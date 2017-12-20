@@ -901,3 +901,4 @@ java.lang.IllegalStateException: Shutdown in progress
 2017-12-20 15:58:03.258  INFO 62736 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2017-12-20 16:03:03.257  INFO 62736 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
 2017-12-20 16:08:03.249  INFO 62736 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2017-12-20 16:13:03.242  INFO 62736 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
